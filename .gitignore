@@ -1,0 +1,12 @@
+# ignore everything by convention
+/*
+
+# include this file
+!/.gitignore
+
+# include readme
+!/README.md
+
+# include all versions of rules
+# enforce the project hierarchy
+!/Rules/
