@@ -112,7 +112,7 @@
 
 11. 视频直播贴与普通直播贴享受同等规定，单次视频时长不得过短，原则更新周期不得超过25天，不得出现更三次弃坑的情况，请尽量在发布之前将视频内容先以文字形式呈现；
 
-12. 直播加精由吧务团队投票决定，一般达到五票以上即视为通过，不活跃情况下三票通过，吧主为两票，普通吧务为一票，一天之类就能收到结果。如果你的贴子申请加精并且在1日内未收到答复，请至[https://github.com/MCIndustrial2Bar/MCIC2BAR/issues]()提交issue或私信吧务询问。
+12. 直播加精由吧务团队投票决定，一般达到五票以上即视为通过，不活跃情况下三票通过，吧主为两票，普通吧务为一票，一天之类就能收到结果。如果你的贴子申请加精并且在1日内未收到答复，请至<https://github.com/MCIndustrial2Bar/MCIC2BAR/issues>提交issue或私信吧务询问。
 
 ## 教程规定 ##
 
@@ -124,7 +124,7 @@
 
 4. 加精方案吧务团队有权随时调整。
 
-5. 直播加精由吧务团队投票决定，一般达到五票以上即视为通过，不活跃情况下三票通过，吧主为两票，普通吧务为一票，一天之类就能收到结果。如果你的贴子申请加精并且在1日内未收到答复，请至[https://github.com/MCIndustrial2Bar/MCIC2BAR/issues]()提交issue或私信吧务询问。
+5. 直播加精由吧务团队投票决定，一般达到五票以上即视为通过，不活跃情况下三票通过，吧主为两票，普通吧务为一票，一天之类就能收到结果。如果你的贴子申请加精并且在1日内未收到答复，请至<https://github.com/MCIndustrial2Bar/MCIC2BAR/issues>提交issue或私信吧务询问。
 
 ## 服务器宣传规定 ##
 
@@ -202,29 +202,29 @@
 
 10. 若觉得本贴吧制度不合理，你可以选择出门右拐。
 
-『关于其他的论坛』
+## 有关链接 ##
 
-minecraft官网：[https://minecraft.net/]()
+- minecraft官网：<https://minecraft.net/>
 
-minecraftwiki：[http://minecraft-zh.gamepedia.com/index.php?title=Minecraft_Wiki&variant=zh]()
+- minecraftwiki：<http://minecraft-zh.gamepedia.com/index.php?title=Minecraft_Wiki&variant=zh>
 
-minecraftforum：[http://www.minecraftforum.net/]()
+- minecraftforum：<http://www.minecraftforum.net/>
 
-mcbbs：[http://www.mcbbs.net/forum.php]()
+- mcbbs：<http://www.mcbbs.net/forum.php>
 
-mcmod：[http://www.mcmod.cn/]()
+- mcmod：<http://www.mcmod.cn/>
 
-curseforge上的minecraft mod发布页面：[http://minecraft.curseforge.com/mc-mods]()
+- curseforge上的minecraft mod发布页面：<http://minecraft.curseforge.com/mc-mods>
 
-ftbwiki（非官方）：[http://www.ftbwiki.org]()
+- ftbwiki（非官方）：<http://www.ftbwiki.org>
 
-Planet Minecraft资源站：[http://www.planetminecraft.com/]()
+- Planet Minecraft资源站：<http://www.planetminecraft.com/>
 
-Forge下载页面：[http://files.minecraftforge.net/]()
+- Forge下载页面：<http://files.minecraftforge.net/>
 
-ftbwiki（官方）：[http://ftb.gamepedia.com/]()
+- ftbwiki（官方）：<http://ftb.gamepedia.com/>
 
-Mod List:  [http://modlist.mcf.li/]()
+- Mod List: <http://modlist.mcf.li>
 
 
 
