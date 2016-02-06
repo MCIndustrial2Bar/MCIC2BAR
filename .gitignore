@@ -8,5 +8,7 @@
 !/README.md
 
 # include all versions of rules
-# enforce the project hierarchy
 !/Rules/
+
+# include all election results
+!/Elections/
